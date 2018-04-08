@@ -1,0 +1,3 @@
+What your reading is my 3rd edition of the MilitaryRP GameMode MOTD, in this edition we have more edit's and bug fixes. 
+This project started as a GameMode privately for Internal Gaming, but then i realized that i shouldn't keep this private, so here i have the github version.
+This will all be much more professional and will give credit later on, but for now i thank you for using my GameMode.
